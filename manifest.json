@@ -1,0 +1,16 @@
+{
+  "name": "Tokens to SCSS variables",
+  "id": "1277981568838682640",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
